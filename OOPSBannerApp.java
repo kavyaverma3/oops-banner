@@ -1,13 +1,3 @@
-/**
- * OOPSBannerApp UC6 - OOPS Banner Application (Use Case 6)
- *
- * This use case extends UC5 by implementing a modular approach to generate each
- * letter's pattern through dedicated methods. This enhances code reusability and
- * maintainability by separating pattern generation logic from the main display logic.
- *
- * @author Developer
- * @version 6.0
- */
 
 
 
